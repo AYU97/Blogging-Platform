@@ -15,7 +15,7 @@ The Blogging Platform provides endpoints for various operations related to blog 
 2. **Install Dependencies**
 
 ```bash
-cd blog-api
+cd blogging-platform
 npm install
 ```
 
